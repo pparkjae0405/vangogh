@@ -92,6 +92,4 @@ stylized_image = outputs[0]
 show_n([content_image, style_image, stylized_image], titles=['Original content image', 'Style image', 'Stylized image'])
 ```
 # 결과
-```
 ![2](https://user-images.githubusercontent.com/62460178/97847080-5ebdcf00-1d32-11eb-8293-3df1d0e89501.png)
-```
